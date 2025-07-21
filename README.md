@@ -1,25 +1,20 @@
-<h1 align="center"><b>Hi, I'm Rifqi Munawar</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Endi Rahman Muhamad</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Informatic+Engineering+;Student+at+Islamic+Nusantara+University" alt="Typing SVG" /></a></p>
 
-<!--
-**rifqimunawar/rifqimunawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 
 ### 💫 About Me:
 
-👋 Hi, I'm Rifqi Munawar. <br />
+👋 Hi, I'm Endi Rahman Muhamad. <br />
 🏡 Currently, I am located in Bandung, West Java. <br />
 🏫 I am currently studying at the Islamic University of Nusantara. <br />
-🌱 I am currently learning fullstack web development. <br />
-📫 You can reach me at Email rifqimunawar47@gmail.com. <br />
+🌱 I am currently learning front-End web development. <br />
+📫 You can reach me at Email endymuhamad93@gmail.com. <br />
 💞️ I am interested in collaborating with any local/overseas companies. <br />
 
 ### 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100006320441166&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rifqi_munawar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rifqi-munawar-055251270/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@rifqi_munawar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rifqi_munawar47) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@RifqiMunawar)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/endy.rahman.muhamad) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/endymhmd_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/rifqi-munawar-055251270/](https://www.linkedin.com/in/endy-rahman-muhamad-9b1416262/)) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@rifqi_munawar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rifqi_munawar47) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@RifqiMunawar)
 
 <!--
 # 💻 Tech Stack:
@@ -28,13 +23,13 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=rifqimunawar&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rifqimunawar&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rifqimunawar&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=endyra937&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=endyra937&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=endyra937&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=rifqimunawar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=endyra937&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!--
 ### 🐦 Latest Tweet
@@ -47,7 +42,7 @@ Here are some ideas to get you started:
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=rifqimunawar&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=endyra937&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ### 😂 Current condition
 
@@ -56,7 +51,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/rifqimunawar/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/endyra937/count.svg?"  />
 </div>
 
 ###
@@ -69,7 +64,7 @@ Here are some ideas to get you started:
 
 ###
 
-<img src="https://raw.githubusercontent.com/rifqimunawar/rifqimunawar/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/endyra937/endyra937/output/snake.svg" alt="Snake animation" />
 
 ###
 
