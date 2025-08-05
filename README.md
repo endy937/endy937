@@ -23,13 +23,13 @@
 
 ### 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=endyra937&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=endyra937&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=endyra937&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=endy937&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=endy937&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=endy937&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=endyra937&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=endy937&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!--
 ### 🐦 Latest Tweet
@@ -42,7 +42,7 @@
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=endyra937&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=endy937&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ### 😂 Current condition
 
@@ -51,7 +51,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/endyra937/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/endy937/count.svg?"  />
 </div>
 
 ###
@@ -64,7 +64,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/endyra937/endyra937/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/endyra937/endy937/output/snake.svg" alt="Snake animation" />
 
 ###
 
