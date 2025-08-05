@@ -43,11 +43,10 @@
 ### 🔝 Top Contributed Repo
 
 ### 😂 Current condition
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="512px"/>
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="500px"/>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/rifqimunawar/count.svg?"  />
 </div>
 
 <img src="https://raw.githubusercontent.com/rifqimunawar/rifqimunawar/output/snake.svg" alt="Snake animation" />
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->  
