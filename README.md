@@ -46,7 +46,7 @@
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="500px"/>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/rifqimunawar/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/endy937/count.svg?"  />
 </div>
 
-<!-- <img src="https://raw.githubusercontent.com/rifqimunawar/rifqimunawar/output/snake.svg" alt="Snake animation" /> -->
+<img src="https://raw.githubusercontent.com/endy937/endy937/output/github-contribution-grid-snake.svg" />
