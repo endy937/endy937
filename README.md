@@ -43,11 +43,11 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=endy937&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-### 😂 Current condition
+<!-- ### 😂 Current condition
 
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="512px"/>
 
-###
+### -->
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/endy937/count.svg?"  />
