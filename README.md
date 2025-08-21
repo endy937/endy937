@@ -26,11 +26,7 @@ Here are some ideas to get you started:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 -->
 
-<!--### 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=endy937&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=endy937&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=endy937&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
+### 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=rifqimunawar&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rifqimunawar&theme=radical&hide_border=true)<br/>
@@ -38,7 +34,6 @@ Here are some ideas to get you started:
 
 ### 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=endy937&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ![](https://github-profile-trophy.vercel.app/?username=rifqimunawar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!--
@@ -56,14 +51,14 @@ Here are some ideas to get you started:
 
 ### 😂 Current condition
 
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="500px"/>
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="512px"/>
+
+###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/endy937/count.svg?"  />
   <img src="https://profile-counter.glitch.me/rifqimunawar/count.svg?"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/endy937/endy937/output/github-contribution-grid-snake.svg" />
 ###
 
 <!-- <picture>
