@@ -49,11 +49,9 @@
 
 ### -->
 
-<div align="center">
+<!--<div align="center">
   <img src="https://profile-counter.glitch.me/endy937/count.svg?"  />
-</div>
-
-###
+</div>-->
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rifqimunawar/rifqimunawar/output/pacman-contribution-graph-dark.svg">
@@ -61,10 +59,10 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rifqimunawar/rifqimunawar/output/pacman-contribution-graph.svg">
 </picture> -->
 
-###
+<!--###
 
 <img src="https://raw.githubusercontent.com/endy937/endy937/output/snake.svg" alt="Snake animation" />
 
-###
+###-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
