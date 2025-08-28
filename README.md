@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi, I'm Endi Rahman Muhamad</b></h1>
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Informatic+Engineering+;Student+at+Islamic+Nusantara+University" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Informatic+Engineering+;" alt="Typing SVG" /></a></p>
 
 ### 💫 About Me:
 
