@@ -12,10 +12,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate snake.svg
+        uses: Platane/snk@v3
         with:
           github_user_name: endy937
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: dist/snake.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
