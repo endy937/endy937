@@ -59,9 +59,9 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/endy937/endy937/output/pacman-contribution-graph.svg">
 </picture>
 
-<!-- ###
+###
 
-<img src="https://raw.githubusercontent.com/endy937/endy937/output/snake.svg" alt="Snake animation" /> -->
+<img src="https://raw.githubusercontent.com/endy937/endy937/output/snake.svg" alt="Snake animation" />
 
 ###
 
