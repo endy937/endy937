@@ -62,6 +62,9 @@
 ###
 
 <img src="https://raw.githubusercontent.com/endy937/endy937/output/snake.svg" alt="Snake animation" />
+![GitHub Snake Light](https://raw.githubusercontent.com/endy937/endy937/output/snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/endy937/endy937/output/snake.svg#gh-dark-mode-only)
+
 
 ###
 
