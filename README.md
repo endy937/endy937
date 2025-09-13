@@ -23,7 +23,7 @@
 ### 📊 GitHub Stats:
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=endy937&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=endy937&theme=radical&hide_border=true)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=endy937&theme=github-dark-dimmed&hide_border=true&border_radius=3.5&locale=id&mode=weekly)](https://git.io/streak-stats)
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=endy937&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
 
 <!-- ### 🏆 GitHub Trophies
@@ -41,7 +41,8 @@
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=endy937&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=endy937&limit=5&theme=github-dark&combine_all_yearly_contributions=true)
+
 
 <!-- ### 😂 Current condition
 
