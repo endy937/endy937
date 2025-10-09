@@ -7,7 +7,7 @@
 👋 Hi, Endi Rahman Muhamad. <br />
 🏡 Currently, I am located in Bandung, West Java. <br />
 🏫 I am currently studying at the Islamic University of Nusantara. <br />
-🌱 I am currently learning fullstack web development. <br />
+🌱 I am currently learning Web development. <br />
 📫 You can reach me at Email endymuhamad93@gmail.com. <br />
 💞️ I am interested in collaborating with any local/overseas companies. <br />
 
