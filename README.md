@@ -2,7 +2,7 @@
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Informatic+Engineering+;" alt="Typing SVG" /></a></p>
 
-### 💫 About Me:
+### About Me:
 
 Endi Rahman Muhamad. <br />
 Currently, I am located in Bandung, West Java. <br />
